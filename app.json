@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Bonbo",
+    "slug": "Bonbo",
+    "version": "1.0.0",
+    "facebookScheme": "fb661816107831400",
+    "facebookAppId": "661816107831400",
+    "facebookDisplayName": "Bonbo",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.Bonbo.Bonbo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
